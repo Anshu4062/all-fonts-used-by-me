@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ea65c0a.css",
+    "main.js": "/static/js/main.5a9d11e4.js",
+    "static/media/Darelinga.ttf": "/static/media/Darelinga.8a095a8d0598207840cf.ttf",
+    "static/media/School Backpack.ttf": "/static/media/School Backpack.15264d17ed9b11ff56d6.ttf",
+    "static/media/BastikChagile.ttf": "/static/media/BastikChagile.0f58c985f092c8ad35f1.ttf",
+    "static/media/Moirest.ttf": "/static/media/Moirest.b6f5d2bc5219844ba21b.ttf",
+    "static/media/Manrope-Regular.ttf": "/static/media/Manrope-Regular.a9b9e09fe6b69741f316.ttf",
+    "static/media/WUSH.otf": "/static/media/WUSH.b481a8c27e9e5fe5fc0b.otf",
+    "static/media/Rankle Free.otf": "/static/media/Rankle Free.a9847da771f6b13b3f89.otf",
+    "static/media/BANDICO.ttf": "/static/media/BANDICO.00535d684c05f2fc8358.ttf",
+    "static/media/Metropolis-Black.otf": "/static/media/Metropolis-Black.1510951eb17eaadbe995.otf",
+    "static/media/Metropolis-Regular.otf": "/static/media/Metropolis-Regular.67a1988d7b65b0aaa16d.otf",
+    "index.html": "/index.html",
+    "main.0ea65c0a.css.map": "/static/css/main.0ea65c0a.css.map",
+    "main.5a9d11e4.js.map": "/static/js/main.5a9d11e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ea65c0a.css",
+    "static/js/main.5a9d11e4.js"
+  ]
+}
